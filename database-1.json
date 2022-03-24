@@ -1,0 +1,1438 @@
+{
+    "products": [
+        {
+            "id": 12345,
+            "name": "Creek Classic",
+            "brand": "creek",
+            "type": "cdPlayer",
+            "price": 999,
+            "desc": "A CD player is an electronic device that plays audio compact discs, which are a digital optical disc data storage format. CD players were first sold to consumers in 1982. CDs typically contain recordings of audio material such as music or audiobooks.",
+            "images": [
+                "/images/cd_afspillere/creek_classic_cd.jpg",
+                "/images/cd_afspillere/creek_classic_cd.jpg",
+                "/images/cd_afspillere/creek_classic_cd.jpg"
+            ],
+            "colors": [
+                {
+                    "name": "Destiny Silver",
+                    "code": "use hex"
+                }
+            ],
+            "flavor_text": "Silver Sound, ",
+            "specs": {
+                "sound": "Surround",
+                "design": {
+                    "height": 456,
+                    "width": 234,
+                    "weigth": 1200,
+                    "design_desc": "Metal"
+                },
+                "connectivity": {
+                    "battery": "No",
+                    "power": "100-240v 50/60hz intern strømforsyning",
+                    "type": [
+                        "Bluetooth 5.0",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Henrik Gren",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio ",
+                        "review_date": "5. April, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Dorthe Doormat",
+                        "stars": 5,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ",
+                        "review_date": "14. March, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Jens Jensen",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ut, repudiandae modi saepe blanditiis vel consectetur, ipsam tempora, quae quasi iure? Dignissimos accusamus odio qui natus nobis ex nostrum explicabo.",
+                        "review_date": "36. december 2022"
+                    }
+                ]
+            },
+            "stock": 43,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        },
+        {
+            "id": 12345,
+            "name": "Creek Destiny",
+            "brand": "creek",
+            "type": "cdPlayer",
+            "price": 999,
+            "desc": "A CD player is an electronic device that plays audio compact discs, which are a digital optical disc data storage format. CD players were first sold to consumers in 1982. CDs typically contain recordings of audio material such as music or audiobooks.",
+            "images": [
+                "/images/cd_afspillere/creek_Destiny_CD.jpg",
+                "/images/cd_afspillere/creek_Destiny_CD.jpg",
+                "/images/cd_afspillere/creek_Destiny_CD.jpg"
+            ],
+            "colors": [
+                {
+                    "name": "Destiny Silver",
+                    "code": "use hex"
+                }
+            ],
+            "flavor_text": "Destiny Silver Sound, navnet siger sig selv",
+            "specs": {
+                "sound": "...",
+                "design": {
+                    "height": 456,
+                    "width": 234,
+                    "weigth": 1200,
+                    "design_desc": "Består af et sleek design af metal."
+                },
+                "connectivity": {
+                    "battery": "No",
+                    "power": "100-240v 50/60hz intern strømforsyning",
+                    "type": [
+                        "Bluetooth 5.0",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Henrik Gren",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio ",
+                        "review_date": "5. April, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Dorthe Doormat",
+                        "stars": 5,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ",
+                        "review_date": "14. March, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Jens Jensen",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ut, repudiandae modi saepe blanditiis vel consectetur, ipsam tempora, quae quasi iure? Dignissimos accusamus odio qui natus nobis ex nostrum explicabo.",
+                        "review_date": "36. december 2022"
+                    }
+                ]
+            },
+            "stock": 43,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        },
+        {
+            "id": 12345,
+            "name": "Creek Evo",
+            "brand": "creek",
+            "type": "cdPlayer",
+            "price": 999,
+            "desc": "A CD player is an electronic device that plays audio compact discs, which are a digital optical disc data storage format. CD players were first sold to consumers in 1982. CDs typically contain recordings of audio material such as music or audiobooks.",
+            "images": [
+                "/images/cd_afspillere/creek_evo_cd.jpg",
+                "/images/cd_afspillere/creek_evo_cd.jpg",
+                "/images/cd_afspillere/creek_evo_cd.jpg"
+            ],
+            "colors": [
+                {
+                    "name": "Evo Silver",
+                    "code": "use hex"
+                }
+            ],
+            "flavor_text": "Evo Silver Sound, navnet siger sig selv",
+            "specs": {
+                "sound": "...",
+                "design": {
+                    "height": 456,
+                    "width": 234,
+                    "weigth": 1200,
+                    "design_desc": "Består af et sleek design af metal."
+                },
+                "connectivity": {
+                    "battery": "No",
+                    "power": "100-240v 50/60hz intern strømforsyning",
+                    "type": [
+                        "Bluetooth 5.0",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Henrik Gren",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio ",
+                        "review_date": "5. April, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Dorthe Doormat",
+                        "stars": 5,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ",
+                        "review_date": "14. March, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Jens Jensen",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ut, repudiandae modi saepe blanditiis vel consectetur, ipsam tempora, quae quasi iure? Dignissimos accusamus odio qui natus nobis ex nostrum explicabo.",
+                        "review_date": "36. december 2022"
+                    }
+                ]
+            },
+            "stock": 43,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        },
+        {
+            "id": 12345,
+            "name": "Creek EXP",
+            "brand": "creek",
+            "type": "cdPlayer",
+            "price": 999,
+            "desc": "A CD player is an electronic device that plays audio compact discs, which are a digital optical disc data storage format. CD players were first sold to consumers in 1982. CDs typically contain recordings of audio material such as music or audiobooks.",
+            "images": [
+                "/images/cd_afspillere/Exp_2010S_CD.gif",
+                "/images/cd_afspillere/Exp_2010S_CD.gif",
+                "/images/cd_afspillere/Exp_2010S_CD.gif"
+            ],
+            "colors": [
+                {
+                    "name": "EXP Silver",
+                    "code": "use hex"
+                }
+            ],
+            "flavor_text": "Destiny Silver Sound, navnet siger sig selv",
+            "specs": {
+                "sound": "...",
+                "design": {
+                    "height": 456,
+                    "width": 234,
+                    "weigth": 1200,
+                    "design_desc": "Består af et sleek design af metal."
+                },
+                "connectivity": {
+                    "battery": "No",
+                    "power": "100-240v 50/60hz intern strømforsyning",
+                    "type": [
+                        "Bluetooth 5.0",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Henrik Gren",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio ",
+                        "review_date": "5. April, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Dorthe Doormat",
+                        "stars": 5,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ",
+                        "review_date": "14. March, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Jens Jensen",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ut, repudiandae modi saepe blanditiis vel consectetur, ipsam tempora, quae quasi iure? Dignissimos accusamus odio qui natus nobis ex nostrum explicabo.",
+                        "review_date": "36. december 2022"
+                    }
+                ]
+            },
+            "stock": 43,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        },
+        {
+            "id": 12345,
+            "name": "Creek Classic Dvd",
+            "brand": "creek",
+            "type": "dvdPlayer",
+            "price": 999,
+            "desc": "A DVD player is very similar to a CD player. It has a laser assembly that shines the laser beam onto the surface of the disc to read the pattern of bumps . The DVD player decodes the MPEG-2 encoded movie, turning it into a standard composite video signal.",
+            "images": [
+                "/images/dvd_afspillere/creek_classic.jpg",
+                "/images/dvd_afspillere/creek_classic.jpg",
+                "/images/dvd_afspillere/creek_classic.jpg"
+            ],
+            "colors": [
+                {
+                    "name": "EXP Silver",
+                    "code": "use hex"
+                }
+            ],
+            "flavor_text": "EXP Silver Sound, navnet siger sig selv",
+            "specs": {
+                "sound": "...",
+                "design": {
+                    "height": 456,
+                    "width": 234,
+                    "weigth": 1200,
+                    "design_desc": "Består af et sleek design af metal."
+                },
+                "connectivity": {
+                    "battery": "No",
+                    "power": "100-240v 50/60hz intern strømforsyning",
+                    "type": [
+                        "Bluetooth 5.0",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Henrik Gren",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio ",
+                        "review_date": "5. April, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Dorthe Doormat",
+                        "stars": 5,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ",
+                        "review_date": "14. March, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Jens Jensen",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ut, repudiandae modi saepe blanditiis vel consectetur, ipsam tempora, quae quasi iure? Dignissimos accusamus odio qui natus nobis ex nostrum explicabo.",
+                        "review_date": "36. december 2022"
+                    }
+                ]
+            },
+            "stock": 43,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        },
+        {
+            "id": 12345,
+            "name": "Creek EXPosure",
+            "brand": "creek",
+            "type": "dvdPlayer",
+            "price": 999,
+            "desc": "Creek EXPosure, a DVD player is very similar to a CD player. It has a laser assembly that shines the laser beam onto the surface of the disc to read the pattern of bumps . The DVD player decodes the MPEG-2 encoded movie, turning it into a standard composite video signal.",
+            "images": [
+                "/images/dvd_afspillere/exposure_2010S.jpg",
+                "/images/dvd_afspillere/exposure_2010S.jpg",
+                "/images/dvd_afspillere/exposure_2010S.jpg"
+            ],
+            "colors": [
+                {
+                    "name": "EXP Silver",
+                    "code": "use hex"
+                }
+            ],
+            "flavor_text": "EXP Silver Sound, navnet siger sig selv",
+            "specs": {
+                "sound": "...",
+                "design": {
+                    "height": 456,
+                    "width": 234,
+                    "weigth": 1200,
+                    "design_desc": "Består af et sleek design af metal."
+                },
+                "connectivity": {
+                    "battery": "No",
+                    "power": "100-240v 50/60hz intern strømforsyning",
+                    "type": [
+                        "Bluetooth 5.0",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Henrik Gren",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio ",
+                        "review_date": "5. April, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Dorthe Doormat",
+                        "stars": 5,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ",
+                        "review_date": "14. March, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Jens Jensen",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ut, repudiandae modi saepe blanditiis vel consectetur, ipsam tempora, quae quasi iure? Dignissimos accusamus odio qui natus nobis ex nostrum explicabo.",
+                        "review_date": "36. december 2022"
+                    }
+                ]
+            },
+            "stock": 43,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        },
+        {
+            "id": 12345,
+            "name": "Parasound d200",
+            "brand": "parasound",
+            "type": "dvdPlayer",
+            "price": 999,
+            "desc": "A DVD player is very similar to a CD player. It has a laser assembly that shines the laser beam onto the surface of the disc to read the pattern of bumps . The DVD player decodes the MPEG-2 encoded movie, turning it into a standard composite video signal.",
+            "images": [
+                "/images/dvd_afspillere/parasound_d200.jpg",
+                "/images/dvd_afspillere/parasound_d200.jpg",
+                "/images/dvd_afspillere/parasound_d200.jpg"
+            ],
+            "colors": [
+                {
+                    "name": "EXP Silver",
+                    "code": "use hex"
+                }
+            ],
+            "flavor_text": "EXP Silver Sound, navnet siger sig selv",
+            "specs": {
+                "sound": "...",
+                "design": {
+                    "height": 456,
+                    "width": 234,
+                    "weigth": 1200,
+                    "design_desc": "Består af et sleek design af metal."
+                },
+                "connectivity": {
+                    "battery": "No",
+                    "power": "100-240v 50/60hz intern strømforsyning",
+                    "type": [
+                        "Bluetooth 5.0",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Henrik Gren",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio ",
+                        "review_date": "5. April, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Dorthe Doormat",
+                        "stars": 5,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ",
+                        "review_date": "14. March, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Jens Jensen",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ut, repudiandae modi saepe blanditiis vel consectetur, ipsam tempora, quae quasi iure? Dignissimos accusamus odio qui natus nobis ex nostrum explicabo.",
+                        "review_date": "36. december 2022"
+                    }
+                ]
+            },
+            "stock": 43,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        },
+        {
+            "id": 12345,
+            "name": "Parasound Halo d3",
+            "brand": "parasound",
+            "type": "dvdPlayer",
+            "price": 999,
+            "desc": "Parasound Halo d3, A DVD player is very similar to a CD player. It has a laser assembly that shines the laser beam onto the surface of the disc to read the pattern of bumps . The DVD player decodes the MPEG-2 encoded movie, turning it into a standard composite video signal.",
+            "images": [
+                "/images/dvd_afspillere/parasound_halod3.jpg",
+                "/images/dvd_afspillere/parasound_halod3.jpg",
+                "/images/dvd_afspillere/parasound_halod3.jpg"
+            ],
+            "colors": [
+                {
+                    "name": "EXP Silver",
+                    "code": "use hex"
+                }
+            ],
+            "flavor_text": "EXP Silver Sound, navnet siger sig selv",
+            "specs": {
+                "sound": "...",
+                "design": {
+                    "height": 456,
+                    "width": 234,
+                    "weigth": 1200,
+                    "design_desc": "Består af et sleek design af metal."
+                },
+                "connectivity": {
+                    "battery": "No",
+                    "power": "100-240v 50/60hz intern strømforsyning",
+                    "type": [
+                        "Bluetooth 5.0",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Henrik Gren",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio ",
+                        "review_date": "5. April, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Dorthe Doormat",
+                        "stars": 5,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ",
+                        "review_date": "14. March, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Jens Jensen",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ut, repudiandae modi saepe blanditiis vel consectetur, ipsam tempora, quae quasi iure? Dignissimos accusamus odio qui natus nobis ex nostrum explicabo.",
+                        "review_date": "36. december 2022"
+                    }
+                ]
+            },
+            "stock": 43,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        },
+        {
+            "id": 12345,
+            "name": "Manley Mahi Effect Amplifier",
+            "brand": "manley",
+            "type": "effectAmplifier",
+            "price": 999,
+            "desc": "Manley Mahi, An amplifier is an electronic device that increases the voltage, current, or power of a signal. Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. They can be categorized as either weak-signal amplifiers or power amplifiers.",
+            "images": [
+                "/images/dvd_afspillere/exposure_2010S.jpg",
+                "/images/dvd_afspillere/exposure_2010S.jpg",
+                "/images/dvd_afspillere/exposure_2010S.jpg"
+            ],
+            "colors": [
+                {
+                    "name": "EXP Silver",
+                    "code": "use hex"
+                }
+            ],
+            "flavor_text": "EXP Silver Sound, navnet siger sig selv",
+            "specs": {
+                "sound": "...",
+                "design": {
+                    "height": 456,
+                    "width": 234,
+                    "weigth": 1200,
+                    "design_desc": "Består af et sleek design af metal."
+                },
+                "connectivity": {
+                    "battery": "No",
+                    "power": "100-240v 50/60hz intern strømforsyning",
+                    "type": [
+                        "Bluetooth 5.0",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Henrik Gren",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio ",
+                        "review_date": "5. April, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Dorthe Doormat",
+                        "stars": 5,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ",
+                        "review_date": "14. March, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Jens Jensen",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ut, repudiandae modi saepe blanditiis vel consectetur, ipsam tempora, quae quasi iure? Dignissimos accusamus odio qui natus nobis ex nostrum explicabo.",
+                        "review_date": "36. december 2022"
+                    }
+                ]
+            },
+            "stock": 43,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        },
+        {
+            "id": 12345,
+            "name": "Manley Neo Effect Amplifier",
+            "brand": "manley",
+            "type": "effectAmplifier",
+            "price": 999,
+            "desc": "Manley Neo-classic, an amplifier is an electronic device that increases the voltage, current, or power of a signal. Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. They can be categorized as either weak-signal amplifiers or power amplifiers.",
+            "images": [
+                "/images/effektforstaerkere/manley_neoclassic.jpg",
+                "/images/effektforstaerkere/manley_neoclassic.jpg",
+                "/images/effektforstaerkere/manley_neoclassic.jpg"
+            ],
+            "colors": [
+                {
+                    "name": "EXP Silver",
+                    "code": "use hex"
+                }
+            ],
+            "flavor_text": "EXP Silver Sound, navnet siger sig selv",
+            "specs": {
+                "sound": "...",
+                "design": {
+                    "height": 456,
+                    "width": 234,
+                    "weigth": 1200,
+                    "design_desc": "Består af et sleek design af metal."
+                },
+                "connectivity": {
+                    "battery": "No",
+                    "power": "100-240v 50/60hz intern strømforsyning",
+                    "type": [
+                        "Bluetooth 5.0",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Henrik Gren",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio ",
+                        "review_date": "5. April, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Dorthe Doormat",
+                        "stars": 5,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ",
+                        "review_date": "14. March, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Jens Jensen",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ut, repudiandae modi saepe blanditiis vel consectetur, ipsam tempora, quae quasi iure? Dignissimos accusamus odio qui natus nobis ex nostrum explicabo.",
+                        "review_date": "36. december 2022"
+                    }
+                ]
+            },
+            "stock": 43,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        },
+        {
+            "id": 12345,
+            "name": "Manley Snapper Effect Amplifier",
+            "brand": "manley",
+            "type": "effectAmplifier",
+            "price": 999,
+            "desc": "The Manley Snapper, An amplifier is an electronic device that increases the voltage, current, or power of a signal. Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. They can be categorized as either weak-signal amplifiers or power amplifiers.",
+            "images": [
+                "/images/effektforstaerkere/manley_snapper.jpg",
+                "/images/effektforstaerkere/manley_snapper.jpg",
+                "/images/effektforstaerkere/manley_snapper.jpg"
+            ],
+            "colors": [
+                {
+                    "name": "EXP Silver",
+                    "code": "use hex"
+                }
+            ],
+            "flavor_text": "EXP Silver Sound, navnet siger sig selv",
+            "specs": {
+                "sound": "...",
+                "design": {
+                    "height": 456,
+                    "width": 234,
+                    "weigth": 1200,
+                    "design_desc": "Består af et sleek design af metal."
+                },
+                "connectivity": {
+                    "battery": "No",
+                    "power": "100-240v 50/60hz intern strømforsyning",
+                    "type": [
+                        "Bluetooth 5.0",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Henrik Gren",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio ",
+                        "review_date": "5. April, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Dorthe Doormat",
+                        "stars": 5,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ",
+                        "review_date": "14. March, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Jens Jensen",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ut, repudiandae modi saepe blanditiis vel consectetur, ipsam tempora, quae quasi iure? Dignissimos accusamus odio qui natus nobis ex nostrum explicabo.",
+                        "review_date": "36. december 2022"
+                    }
+                ]
+            },
+            "stock": 43,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        },
+        {
+            "id": 12345,
+            "name": "Parasound Halo Effect Amplifier",
+            "brand": "parasound",
+            "type": "effectAmplifier",
+            "price": 999,
+            "desc": "Parasound Halo, An amplifier is an electronic device that increases the voltage, current, or power of a signal. Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. They can be categorized as either weak-signal amplifiers or power amplifiers.",
+            "images": [
+                "/images/effektforstaerkere/parasound_haloa23.jpg",
+                "/images/effektforstaerkere/parasound_haloa23.jpg",
+                "/images/effektforstaerkere/parasound_haloa23.jpg"
+            ],
+            "colors": [
+                {
+                    "name": "EXP Silver",
+                    "code": "use hex"
+                }
+            ],
+            "flavor_text": "EXP Silver Sound, navnet siger sig selv",
+            "specs": {
+                "sound": "...",
+                "design": {
+                    "height": 456,
+                    "width": 234,
+                    "weigth": 1200,
+                    "design_desc": "Består af et sleek design af metal."
+                },
+                "connectivity": {
+                    "battery": "No",
+                    "power": "100-240v 50/60hz intern strømforsyning",
+                    "type": [
+                        "Bluetooth 5.0",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Henrik Gren",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio ",
+                        "review_date": "5. April, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Dorthe Doormat",
+                        "stars": 5,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ",
+                        "review_date": "14. March, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Jens Jensen",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ut, repudiandae modi saepe blanditiis vel consectetur, ipsam tempora, quae quasi iure? Dignissimos accusamus odio qui natus nobis ex nostrum explicabo.",
+                        "review_date": "36. december 2022"
+                    }
+                ]
+            },
+            "stock": 43,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        },
+        {
+            "id": 12345,
+            "name": "Creek OBH 22",
+            "brand": "creek",
+            "type": "preAmplifier",
+            "price": 999,
+            "desc": "Creek OBH 22 pre amplifier, In a home theatre system, the pre-amplifier performs two main functions: it handles switching between different line level sources and boosts the signal before sending it to the amplifier. A weak electrical signal becomes strong enough for additional processing, preventing noise and offering cleaner output.",
+            "images": [
+                "/images/dvd_afspillere/Creek_OBH_22_Passive_Preamp.jpg",
+                "/images/dvd_afspillere/Creek_OBH_22_Passive_Preamp.jpg",
+                "/images/dvd_afspillere/Creek_OBH_22_Passive_Preamp.jpg"
+            ],
+            "colors": [
+                {
+                    "name": "EXP Silver",
+                    "code": "use hex"
+                }
+            ],
+            "flavor_text": "EXP Silver Sound, navnet siger sig selv",
+            "specs": {
+                "sound": "...",
+                "design": {
+                    "height": 456,
+                    "width": 234,
+                    "weigth": 1200,
+                    "design_desc": "Består af et sleek design af metal."
+                },
+                "connectivity": {
+                    "battery": "No",
+                    "power": "100-240v 50/60hz intern strømforsyning",
+                    "type": [
+                        "Bluetooth 5.0",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Henrik Gren",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio ",
+                        "review_date": "5. April, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Dorthe Doormat",
+                        "stars": 5,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ",
+                        "review_date": "14. March, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Jens Jensen",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ut, repudiandae modi saepe blanditiis vel consectetur, ipsam tempora, quae quasi iure? Dignissimos accusamus odio qui natus nobis ex nostrum explicabo.",
+                        "review_date": "36. december 2022"
+                    }
+                ]
+            },
+            "stock": 43,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        },
+        {
+            "id": 12345,
+            "name": "Parasound Classic",
+            "brand": "parasound",
+            "type": "preAmplifier",
+            "price": 999,
+            "desc": "Parasound Classic pre amplifier, In a home theatre system, the pre-amplifier performs two main functions: it handles switching between different line level sources and boosts the signal before sending it to the amplifier. A weak electrical signal becomes strong enough for additional processing, preventing noise and offering cleaner output. lyd",
+            "images": [
+                "/images/forforstaerkere/parasound_classic7100.jpg",
+                "/images/forforstaerkere/parasound_classic7100.jpg",
+                "/images/forforstaerkere/parasound_classic7100.jpg"
+            ],
+            "colors": [
+                {
+                    "name": "EXP Silver",
+                    "code": "use hex"
+                }
+            ],
+            "flavor_text": "EXP Silver Sound, navnet siger sig selv",
+            "specs": {
+                "sound": "...",
+                "design": {
+                    "height": 456,
+                    "width": 234,
+                    "weigth": 1200,
+                    "design_desc": "Består af et sleek design af metal."
+                },
+                "connectivity": {
+                    "battery": "No",
+                    "power": "100-240v 50/60hz intern strømforsyning",
+                    "type": [
+                        "Bluetooth 5.0",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Henrik Gren",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio ",
+                        "review_date": "5. April, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Dorthe Doormat",
+                        "stars": 5,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ",
+                        "review_date": "14. March, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Jens Jensen",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ut, repudiandae modi saepe blanditiis vel consectetur, ipsam tempora, quae quasi iure? Dignissimos accusamus odio qui natus nobis ex nostrum explicabo.",
+                        "review_date": "36. december 2022"
+                    }
+                ]
+            },
+            "stock": 43,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        },
+        {
+            "id": 12345,
+            "name": "Parasound Halo 3",
+            "brand": "Creek",
+            "type": "preAmplifier",
+            "price": 999,
+            "desc": "Parasound Halo 3 pre amplifier, In a home theatre system, the pre-amplifier performs two main functions: it handles switching between different line level sources and boosts the signal before sending it to the amplifier. A weak electrical signal becomes strong enough for additional processing, preventing noise and offering cleaner output.",
+            "images": [
+                "/images/forforstaerkere/parasound_halop3.jpg",
+                "/images/forforstaerkere/parasound_halop3.jpg",
+                "/images/forforstaerkere/parasound_halop3.jpg"
+            ],
+            "colors": [
+                {
+                    "name": "EXP Silver",
+                    "code": "use hex"
+                }
+            ],
+            "flavor_text": "EXP Silver Sound, navnet siger sig selv",
+            "specs": {
+                "sound": "...",
+                "design": {
+                    "height": 456,
+                    "width": 234,
+                    "weigth": 1200,
+                    "design_desc": "Består af et sleek design af metal."
+                },
+                "connectivity": {
+                    "battery": "No",
+                    "power": "100-240v 50/60hz intern strømforsyning",
+                    "type": [
+                        "Bluetooth 5.0",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Henrik Gren",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio ",
+                        "review_date": "5. April, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Dorthe Doormat",
+                        "stars": 5,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ",
+                        "review_date": "14. March, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Jens Jensen",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ut, repudiandae modi saepe blanditiis vel consectetur, ipsam tempora, quae quasi iure? Dignissimos accusamus odio qui natus nobis ex nostrum explicabo.",
+                        "review_date": "36. december 2022"
+                    }
+                ]
+            },
+            "stock": 43,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        },
+        {
+            "id": 12345,
+            "name": "Project Pre Box",
+            "brand": "project",
+            "type": "preAmplifier",
+            "price": 999,
+            "desc": "Project Pre Box, In a home theatre system, the pre-amplifier performs two main functions: it handles switching between different line level sources and boosts the signal before sending it to the amplifier. A weak electrical signal becomes strong enough for additional processing, preventing noise and offering cleaner output.",
+            "images": [
+                "/images/forforstaerkere/Project_prebox.jpg",
+                "/images/forforstaerkere/Project_prebox.jpg",
+                "/images/forforstaerkere/Project_prebox.jpg"
+            ],
+            "colors": [
+                {
+                    "name": "EXP Silver",
+                    "code": "use hex"
+                }
+            ],
+            "flavor_text": "EXP Silver Sound, navnet siger sig selv",
+            "specs": {
+                "sound": "...",
+                "design": {
+                    "height": 456,
+                    "width": 234,
+                    "weigth": 1200,
+                    "design_desc": "Består af et sleek design af metal."
+                },
+                "connectivity": {
+                    "battery": "No",
+                    "power": "100-240v 50/60hz intern strømforsyning",
+                    "type": [
+                        "Bluetooth 5.0",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Henrik Gren",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio ",
+                        "review_date": "5. April, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Dorthe Doormat",
+                        "stars": 5,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ",
+                        "review_date": "14. March, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Jens Jensen",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ut, repudiandae modi saepe blanditiis vel consectetur, ipsam tempora, quae quasi iure? Dignissi",
+                        "review_date": "5. April, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Dorthe Doormat",
+                        "stars": 5,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ",
+                        "review_date": "14. March, 2022"
+                    },
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Jens Jensen",
+                        "stars": 4,
+                        "review_comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos officia nam animi quisquam, earum optio minima accusamus adipisci cum veniam magnam doloribus praesentium aliquam ducimus. Aperiam eius rerum accusantium ut, repudiandae modi saepe blanditiis vel consectetur, ipsam tempora, quae quasi iure? Dignissimos accusamus odio qui natus nobis ex nostrum explicabo.",
+                        "review_date": "36. december 2022"
+                    }
+                ]
+            },
+            "stock": 43,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        }
+    ],
+    "customers": [
+        {
+            "id": 123456,
+            "username": "Jens1997",
+            "first_name": "Jens",
+            "last_name": "Jensen",
+            "email": "jens-jensen@gmail.com",
+            "password": "jensebasse1234",
+            "phone": 89686345,
+            "address": {
+                "street": "Langbortivej",
+                "number": "43",
+                "apartment": "",
+                "zip_code": "4040",
+                "city": "SennepVile",
+                "country": "Finland",
+                "states": "Lakupib"
+            },
+            "favorites": [
+                12345,
+                12346,
+                12348,
+                "flere id'er"
+            ],
+            "orders": {
+                "id": 1234567,
+                "order_number": "W0927817"
+            }
+        },
+        {
+            "id": 123457,
+            "username": "apple-hater84",
+            "first_name": "Henrik",
+            "last_name": "Gren",
+            "email": "xxsniperpro@gmail.com",
+            "password": "ahah",
+            "phone": 30129567,
+            "address": {
+                "street": "Hempstead road",
+                "number": "56",
+                "apartment": "",
+                "zip_code": "2900",
+                "city": "Watford",
+                "country": "England",
+                "states": ""
+            },
+            "favorites": [
+                12345,
+                12347,
+                12351,
+                12358,
+                "flere id'er"
+            ],
+            "orders": {
+                "id": 1234568,
+                "order_number": "W0927818"
+            }
+        },
+        {
+            "id": 123458,
+            "username": "Diddly-Dorte",
+            "first_name": "Dorte",
+            "last_name": "Doormat",
+            "email": "diddly-dorte@gmail.com",
+            "password": "diddly",
+            "phone": 27543620,
+            "address": {
+                "street": "Edvard Thomsens vej",
+                "number": "28",
+                "apartment": "",
+                "zip_code": "2300",
+                "city": "København S",
+                "country": "Denmark",
+                "states": "..."
+            },
+            "favorites": [
+                12345,
+                12355,
+                12350,
+                "flere id'er"
+            ],
+            "orders": [
+                {
+                    "id": 1234569,
+                    "order_number": "W0927819"
+                }
+            ]
+        },
+        {
+            "id": 123459,
+            "username": "Charlotte-Lund",
+            "first_name": "Charlotte",
+            "last_name": "Notten",
+            "email": "notten83@gmail.com",
+            "password": "1983lund",
+            "phone": 20207140,
+            "address": {
+                "street": "Kingswood Road",
+                "number": "14",
+                "apartment": "",
+                "zip_code": "8000",
+                "city": "Harrow",
+                "country": "England",
+                "states": "Harrow"
+            },
+            "favorites": [
+                12345,
+                12348,
+                12359,
+                12355,
+                12353,
+                "flere id'er"
+            ],
+            "orders": [
+                {
+                    "id": 1234570,
+                    "order_number": "W0927820"
+                }
+            ]
+        },
+        {
+            "id": 123460,
+            "username": "kirstenKniv",
+            "first_name": "Kirsten",
+            "last_name": "Kronborg",
+            "email": "Kirsten-kronborg@gmail.com",
+            "password": "1234",
+            "phone": 23692461,
+            "address": {
+                "street": "Oakthorpe Road",
+                "number": "24",
+                "apartment": "",
+                "zip_code": "9000",
+                "city": "Oxford",
+                "country": "England",
+                "states": "..."
+            },
+            "favorites": [
+                12345,
+                "flere id'er"
+            ],
+            "orders": [
+                {
+                    "id": 1234571,
+                    "order_number": "W0927817"
+                }
+            ]
+        }
+    ],
+    "orders": [
+        {
+            "id": 1234567,
+            "order_number": "W0927817",
+            "customer_id": 123456,
+            "products": [
+                {
+                    "product_id": [
+                        12345,
+                        12346
+                    ],
+                    "amount": 2
+                }
+            ],
+            "order_date": "34. december 2022",
+            "delivery_date": "35. december 2022",
+            "shipment_method": "Wolt Bike",
+            "email": "jens-jensen@gmail.com",
+            "phone": 89686345
+        },
+        {
+            "id": 1234568,
+            "order_number": "W0927818",
+            "customer_id": 123457,
+            "products": [
+                {
+                    "product_id": [
+                        12345,
+                        12346,
+                        12359,
+                        12353
+                    ],
+                    "amount": 4
+                }
+            ],
+            "order_date": "1. april 2022",
+            "delivery_date": "4. april 2022",
+            "shipment_method": "Wolt Bike",
+            "email": "xxsniperpro@gmail.com",
+            "phone": 30129567
+        },
+        {
+            "id": 1234569,
+            "order_number": "W0927819",
+            "customer_id": 123458,
+            "products": [
+                {
+                    "product_id": [
+                        12359,
+                        12353
+                    ],
+                    "amount": 2
+                }
+            ],
+            "order_date": "12. March, 2022",
+            "delivery_date": "13. March, 2022",
+            "shipment_method": "UPS Express",
+            "email": "diddly-dorte@gmail.com",
+            "phone": 27543620
+        },
+        {
+            "id": 1234570,
+            "order_number": "W0927820",
+            "customer_id": 123459,
+            "products": [
+                {
+                    "product_id": [
+                        12359,
+                        12353
+                    ],
+                    "amount": 2
+                }
+            ],
+            "order_date": "9. March, 2022",
+            "delivery_date": "11. March, 2022",
+            "shipment_method": "FedEx",
+            "email": "notten83@gmail.com",
+            "phone": 20207140
+        },
+        {
+            "id": 1234571,
+            "order_number": "W0927819",
+            "customer_id": 123460,
+            "products": [
+                {
+                    "product_id": [
+                        12359,
+                        12353
+                    ],
+                    "amount": 2
+                }
+            ],
+            "order_date": "12. March, 2022",
+            "delivery_date": "14. March, 2022",
+            "shipment_method": "UPS Express",
+            "email": "diddly-dorte@gmail.com",
+            "phone": 27543620
+        }
+    ]
+}
