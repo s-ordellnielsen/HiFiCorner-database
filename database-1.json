@@ -125,7 +125,7 @@
             ],
             "flavor_text": "Get ready to have an Experience. The Ulitmate Dolby 5.1 Surround Sound will leave you with no doubt blaablah",
             "specs": {
-                "sound": "...",
+                "sound": "Surround",
                 "design": {
                     "height": 456,
                     "width": 234,
@@ -214,7 +214,7 @@
             ],
             "flavor_text": "Evo Silver Sound, Get ready to have an Experience. The Ulitmate Dolby 5.1 Surround Sound will leave you with no doubt blaablah",
             "specs": {
-                "sound": "...",
+                "sound": "Surround/Mono",
                 "design": {
                     "height": 456,
                     "width": 234,
@@ -303,7 +303,7 @@
             ],
             "flavor_text": "Destiny Silver Sound, Get ready to have an Experience. The Ulitmate Dolby 5.1 Surround Sound will leave you with no doubt blaablah",
             "specs": {
-                "sound": "...",
+                "sound": "Surround/Mono",
                 "design": {
                     "height": 456,
                     "width": 234,
@@ -392,7 +392,7 @@
             ],
             "flavor_text": "EXP Silver Sound, Get ready to have an Experience. The Ulitmate Dolby 5.1 Surround Sound will leave you with no doubt blaablah",
             "specs": {
-                "sound": "...",
+                "sound": "Surround/Mono",
                 "design": {
                     "height": 456,
                     "width": 234,
@@ -404,7 +404,8 @@
                     "power": "100-240v 50/60hz intern strømforsyning",
                     "type": [
                         "Bluetooth 5.0",
-                        "AirPlay 2"
+                        "AirPlay 2",
+                        "Bluray Dvd+"
                     ]
                 },
                 "reviews": [
@@ -481,7 +482,7 @@
             ],
             "flavor_text": "EXP Silver Sound, Get ready to have an Experience. The Ulitmate Dolby 5.1 Surround Sound will leave you with no doubt blaablah",
             "specs": {
-                "sound": "...",
+                "sound": "Surround/Mono",
                 "design": {
                     "height": 456,
                     "width": 234,
@@ -493,7 +494,8 @@
                     "power": "100-240v 50/60hz intern strømforsyning",
                     "type": [
                         "Bluetooth 5.0",
-                        "AirPlay 2"
+                        "AirPlay 2",
+                        "Bluray Dvd+"
                     ]
                 },
                 "reviews": [
@@ -582,7 +584,8 @@
                     "power": "100-240v 50/60hz intern strømforsyning",
                     "type": [
                         "Bluetooth 5.0",
-                        "AirPlay 2"
+                        "AirPlay 2",
+                        "Bluray Dvd+"
                     ]
                 },
                 "reviews": [
@@ -671,7 +674,8 @@
                     "power": "100-240v 50/60hz intern strømforsyning",
                     "type": [
                         "Bluetooth 5.0",
-                        "AirPlay 2"
+                        "AirPlay 2",
+                        "Bluray Dvd+"
                     ]
                 },
                 "reviews": [
