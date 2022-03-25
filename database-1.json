@@ -94,7 +94,7 @@
             "name": "Creek Destiny",
             "brand": "creek",
             "type": "cdPlayer",
-            "price": 999,
+            "price": 1399,
             "desc": "A CD player is an electronic device that plays audio compact discs, which are a digital optical disc data storage format. CD players were first sold to consumers in 1982. CDs typically contain recordings of audio material such as music or audiobooks.",
             "images": [
                 "/images/cd_afspillere/creek_Destiny_CD.jpg",
@@ -183,7 +183,7 @@
             "name": "Creek Evo",
             "brand": "creek",
             "type": "cdPlayer",
-            "price": 999,
+            "price": 1699,
             "desc": "A CD player is an electronic device that plays audio compact discs, which are a digital optical disc data storage format. CD players were first sold to consumers in 1982. CDs typically contain recordings of audio material such as music or audiobooks.",
             "images": [
                 "/images/cd_afspillere/creek_evo_cd.jpg",
@@ -272,7 +272,7 @@
             "name": "Creek EXP",
             "brand": "creek",
             "type": "cdPlayer",
-            "price": 999,
+            "price": 1999,
             "desc": "A CD player is an electronic device that plays audio compact discs, which are a digital optical disc data storage format. CD players were first sold to consumers in 1982. CDs typically contain recordings of audio material such as music or audiobooks.",
             "images": [
                 "/images/cd_afspillere/Exp_2010S_CD.gif",
@@ -451,7 +451,7 @@
             "name": "Creek EXPosure",
             "brand": "creek",
             "type": "dvdPlayer",
-            "price": 999,
+            "price": 1399,
             "desc": "Creek EXPosure, a DVD player is very similar to a CD player. It has a laser assembly that shines the laser beam onto the surface of the disc to read the pattern of bumps . The DVD player decodes the MPEG-2 encoded movie, turning it into a standard composite video signal.",
             "images": [
                 "/images/dvd_afspillere/exposure_2010S.jpg",
@@ -541,7 +541,7 @@
             "name": "Parasound d200",
             "brand": "parasound",
             "type": "dvdPlayer",
-            "price": 999,
+            "price": 1699,
             "desc": "A DVD player is very similar to a CD player. It has a laser assembly that shines the laser beam onto the surface of the disc to read the pattern of bumps . The DVD player decodes the MPEG-2 encoded movie, turning it into a standard composite video signal.",
             "images": [
                 "/images/dvd_afspillere/parasound_d200.jpg",
@@ -631,7 +631,7 @@
             "name": "Parasound Halo d3",
             "brand": "parasound",
             "type": "dvdPlayer",
-            "price": 999,
+            "price": 1999,
             "desc": "Parasound Halo d3, A DVD player is very similar to a CD player. It has a laser assembly that shines the laser beam onto the surface of the disc to read the pattern of bumps . The DVD player decodes the MPEG-2 encoded movie, turning it into a standard composite video signal.",
             "images": [
                 "/images/dvd_afspillere/parasound_halod3.jpg",
@@ -811,7 +811,7 @@
             "name": "Manley Neo Effect Amplifier",
             "brand": "manley",
             "type": "effectAmplifier",
-            "price": 999,
+            "price": 1399,
             "desc": "Manley Neo-classic, an amplifier is an electronic device that increases the voltage, current, or power of a signal. Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. They can be categorized as either weak-signal amplifiers or power amplifiers.",
             "images": [
                 "/images/effektforstaerkere/manley_neoclassic.jpg",
@@ -901,7 +901,7 @@
             "name": "Manley Snapper Effect Amplifier",
             "brand": "manley",
             "type": "effectAmplifier",
-            "price": 999,
+            "price": 1699,
             "desc": "The Manley Snapper, An amplifier is an electronic device that increases the voltage, current, or power of a signal. Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. They can be categorized as either weak-signal amplifiers or power amplifiers.",
             "images": [
                 "/images/effektforstaerkere/manley_snapper.jpg",
@@ -991,7 +991,7 @@
             "name": "Parasound Halo Effect Amplifier",
             "brand": "parasound",
             "type": "effectAmplifier",
-            "price": 999,
+            "price": 1999,
             "desc": "Parasound Halo, An amplifier is an electronic device that increases the voltage, current, or power of a signal. Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. They can be categorized as either weak-signal amplifiers or power amplifiers.",
             "images": [
                 "/images/effektforstaerkere/parasound_haloa23.jpg",
@@ -1171,7 +1171,7 @@
             "name": "Parasound Classic",
             "brand": "parasound",
             "type": "preAmplifier",
-            "price": 999,
+            "price": 1399,
             "desc": "Parasound Classic pre amplifier, In a home theatre system, the pre-amplifier performs two main functions: it handles switching between different line level sources and boosts the signal before sending it to the amplifier. A weak electrical signal becomes strong enough for additional processing, preventing noise and offering cleaner output. lyd",
             "images": [
                 "/images/forforstaerkere/parasound_classic7100.jpg",
@@ -1261,7 +1261,7 @@
             "name": "Parasound Halo 3",
             "brand": "Creek",
             "type": "preAmplifier",
-            "price": 999,
+            "price": 1699,
             "desc": "Parasound Halo 3 pre amplifier, In a home theatre system, the pre-amplifier performs two main functions: it handles switching between different line level sources and boosts the signal before sending it to the amplifier. A weak electrical signal becomes strong enough for additional processing, preventing noise and offering cleaner output.",
             "images": [
                 "/images/forforstaerkere/parasound_halop3.jpg",
@@ -1351,7 +1351,7 @@
             "name": "Project Pre Box",
             "brand": "project",
             "type": "preAmplifier",
-            "price": 999,
+            "price": 1999,
             "desc": "Project Pre Box, In a home theatre system, the pre-amplifier performs two main functions: it handles switching between different line level sources and boosts the signal before sending it to the amplifier. A weak electrical signal becomes strong enough for additional processing, preventing noise and offering cleaner output.",
             "images": [
                 "/images/forforstaerkere/Project_prebox.jpg",
@@ -1394,8 +1394,7 @@
                     "power": "100-240v 50/60hz intern strømforsyning",
                     "type": [
                         "Bluetooth 5.0",
-                        "AirPlay 2",
-                        "Pre Amplifier"
+                        "AirPlay 2"
                     ]
                 },
                 "reviews": [
