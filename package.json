@@ -1,0 +1,27 @@
+{
+  "name": "hificorner-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "start": "json-server --watch database-1.json --port 3002",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AppleFanBoy0941/HiFiCorner-database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AppleFanBoy0941/HiFiCorner-database/issues"
+  },
+  "homepage": "https://github.com/AppleFanBoy0941/HiFiCorner-database#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0",
+    "json-server": "^0.17.0"
+  }
+}
