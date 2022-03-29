@@ -8,9 +8,9 @@
             "price": 999,
             "desc": "A CD player is an electronic device that plays audio compact discs, which are a digital optical disc data storage format. CD players were first sold to consumers in 1982. CDs typically contain recordings of audio material such as music or audiobooks.",
             "images": [
-                "/images/cd_afspillere/creek_classic_cd.jpg",
-                "/images/cd_afspillere/creek_classic_cd.jpg",
-                "/images/cd_afspillere/creek_classic_cd.jpg"
+                "/images/cdPlayer/creek_classic_cd.jpg",
+                "/images/cdPlayer/creek_classic_cd.jpg",
+                "/images/cdPlayer/creek_classic_cd.jpg"
             ],
             "colors": [
                 {
@@ -97,9 +97,9 @@
             "price": 1399,
             "desc": "A CD player is an electronic device that plays audio compact discs, which are a digital optical disc data storage format. CD players were first sold to consumers in 1982. CDs typically contain recordings of audio material such as music or audiobooks.",
             "images": [
-                "/images/cd_afspillere/creek_Destiny_CD.jpg",
-                "/images/cd_afspillere/creek_Destiny_CD.jpg",
-                "/images/cd_afspillere/creek_Destiny_CD.jpg"
+                "/images/cdPlayer/creek_Destiny_CD.jpg",
+                "/images/cdPlayer/creek_Destiny_CD.jpg",
+                "/images/cdPlayer/creek_Destiny_CD.jpg"
             ],
             "colors": [
                 {
@@ -186,9 +186,9 @@
             "price": 1699,
             "desc": "A CD player is an electronic device that plays audio compact discs, which are a digital optical disc data storage format. CD players were first sold to consumers in 1982. CDs typically contain recordings of audio material such as music or audiobooks.",
             "images": [
-                "/images/cd_afspillere/creek_evo_cd.jpg",
-                "/images/cd_afspillere/creek_evo_cd.jpg",
-                "/images/cd_afspillere/creek_evo_cd.jpg"
+                "/images/cdPlayer/creek_evo_cd.jpg",
+                "/images/cdPlayer/creek_evo_cd.jpg",
+                "/images/cdPlayer/creek_evo_cd.jpg"
             ],
             "colors": [
                 {
@@ -275,9 +275,9 @@
             "price": 1999,
             "desc": "A CD player is an electronic device that plays audio compact discs, which are a digital optical disc data storage format. CD players were first sold to consumers in 1982. CDs typically contain recordings of audio material such as music or audiobooks.",
             "images": [
-                "/images/cd_afspillere/Exp_2010S_CD.gif",
-                "/images/cd_afspillere/Exp_2010S_CD.gif",
-                "/images/cd_afspillere/Exp_2010S_CD.gif"
+                "/images/cdPlayer/Exp_2010S_CD.gif",
+                "/images/cdPlayer/Exp_2010S_CD.gif",
+                "/images/cdPlayer/Exp_2010S_CD.gif"
             ],
             "colors": [
                 {
@@ -364,9 +364,9 @@
             "price": 999,
             "desc": "A DVD player is very similar to a CD player. It has a laser assembly that shines the laser beam onto the surface of the disc to read the pattern of bumps . The DVD player decodes the MPEG-2 encoded movie, turning it into a standard composite video signal.",
             "images": [
-                "/images/dvd_afspillere/creek_classic.jpg",
-                "/images/dvd_afspillere/creek_classic.jpg",
-                "/images/dvd_afspillere/creek_classic.jpg"
+                "/images/dvdPlayer/creek_classic.jpg",
+                "/images/dvdPlayer/creek_classic.jpg",
+                "/images/dvdPlayer/creek_classic.jpg"
             ],
             "colors": [
                 {
@@ -454,9 +454,9 @@
             "price": 1399,
             "desc": "Creek EXPosure, a DVD player is very similar to a CD player. It has a laser assembly that shines the laser beam onto the surface of the disc to read the pattern of bumps . The DVD player decodes the MPEG-2 encoded movie, turning it into a standard composite video signal.",
             "images": [
-                "/images/dvd_afspillere/exposure_2010S.jpg",
-                "/images/dvd_afspillere/exposure_2010S.jpg",
-                "/images/dvd_afspillere/exposure_2010S.jpg"
+                "/images/dvdPlayer/exposure_2010S.jpg",
+                "/images/dvdPlayer/exposure_2010S.jpg",
+                "/images/dvdPlayer/exposure_2010S.jpg"
             ],
             "colors": [
                 {
@@ -544,9 +544,9 @@
             "price": 1699,
             "desc": "A DVD player is very similar to a CD player. It has a laser assembly that shines the laser beam onto the surface of the disc to read the pattern of bumps . The DVD player decodes the MPEG-2 encoded movie, turning it into a standard composite video signal.",
             "images": [
-                "/images/dvd_afspillere/parasound_d200.jpg",
-                "/images/dvd_afspillere/parasound_d200.jpg",
-                "/images/dvd_afspillere/parasound_d200.jpg"
+                "/images/dvdPlayer/parasound_d200.jpg",
+                "/images/dvdPlayer/parasound_d200.jpg",
+                "/images/dvdPlayer/parasound_d200.jpg"
             ],
             "colors": [
                 {
@@ -634,9 +634,9 @@
             "price": 1999,
             "desc": "Parasound Halo d3, A DVD player is very similar to a CD player. It has a laser assembly that shines the laser beam onto the surface of the disc to read the pattern of bumps . The DVD player decodes the MPEG-2 encoded movie, turning it into a standard composite video signal.",
             "images": [
-                "/images/dvd_afspillere/parasound_halod3.jpg",
-                "/images/dvd_afspillere/parasound_halod3.jpg",
-                "/images/dvd_afspillere/parasound_halod3.jpg"
+                "/images/dvdPlayer/parasound_halod3.jpg",
+                "/images/dvdPlayer/parasound_halod3.jpg",
+                "/images/dvdPlayer/parasound_halod3.jpg"
             ],
             "colors": [
                 {
@@ -724,9 +724,9 @@
             "price": 999,
             "desc": "Manley Mahi, An amplifier is an electronic device that increases the voltage, current, or power of a signal. Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. They can be categorized as either weak-signal amplifiers or power amplifiers.",
             "images": [
-                "/images/dvd_afspillere/exposure_2010S.jpg",
-                "/images/dvd_afspillere/exposure_2010S.jpg",
-                "/images/dvd_afspillere/exposure_2010S.jpg"
+                "/images/dvdPlayer/exposure_2010S.jpg",
+                "/images/dvdPlayer/exposure_2010S.jpg",
+                "/images/dvdPlayer/exposure_2010S.jpg"
             ],
             "colors": [
                 {
@@ -814,9 +814,9 @@
             "price": 1399,
             "desc": "Manley Neo-classic, an amplifier is an electronic device that increases the voltage, current, or power of a signal. Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. They can be categorized as either weak-signal amplifiers or power amplifiers.",
             "images": [
-                "/images/effektforstaerkere/manley_neoclassic.jpg",
-                "/images/effektforstaerkere/manley_neoclassic.jpg",
-                "/images/effektforstaerkere/manley_neoclassic.jpg"
+                "/images/effectAmplifier/manley_neoclassic.jpg",
+                "/images/effectAmplifier/manley_neoclassic.jpg",
+                "/images/effectAmplifier/manley_neoclassic.jpg"
             ],
             "colors": [
                 {
@@ -904,9 +904,9 @@
             "price": 1699,
             "desc": "The Manley Snapper, An amplifier is an electronic device that increases the voltage, current, or power of a signal. Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. They can be categorized as either weak-signal amplifiers or power amplifiers.",
             "images": [
-                "/images/effektforstaerkere/manley_snapper.jpg",
-                "/images/effektforstaerkere/manley_snapper.jpg",
-                "/images/effektforstaerkere/manley_snapper.jpg"
+                "/images/effectAmplifier/manley_snapper.jpg",
+                "/images/effectAmplifier/manley_snapper.jpg",
+                "/images/effectAmplifier/manley_snapper.jpg"
             ],
             "colors": [
                 {
@@ -994,9 +994,9 @@
             "price": 1999,
             "desc": "Parasound Halo, An amplifier is an electronic device that increases the voltage, current, or power of a signal. Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. They can be categorized as either weak-signal amplifiers or power amplifiers.",
             "images": [
-                "/images/effektforstaerkere/parasound_haloa23.jpg",
-                "/images/effektforstaerkere/parasound_haloa23.jpg",
-                "/images/effektforstaerkere/parasound_haloa23.jpg"
+                "/images/effectAmplifier/parasound_haloa23.jpg",
+                "/images/effectAmplifier/parasound_haloa23.jpg",
+                "/images/effectAmplifier/parasound_haloa23.jpg"
             ],
             "colors": [
                 {
@@ -1084,9 +1084,9 @@
             "price": 999,
             "desc": "Creek OBH 22 pre amplifier, In a home theatre system, the pre-amplifier performs two main functions: it handles switching between different line level sources and boosts the signal before sending it to the amplifier. A weak electrical signal becomes strong enough for additional processing, preventing noise and offering cleaner output.",
             "images": [
-                "/images/dvd_afspillere/Creek_OBH_22_Passive_Preamp.jpg",
-                "/images/dvd_afspillere/Creek_OBH_22_Passive_Preamp.jpg",
-                "/images/dvd_afspillere/Creek_OBH_22_Passive_Preamp.jpg"
+                "/images/dvdPlayer/Creek_OBH_22_Passive_Preamp.jpg",
+                "/images/dvdPlayer/Creek_OBH_22_Passive_Preamp.jpg",
+                "/images/dvdPlayer/Creek_OBH_22_Passive_Preamp.jpg"
             ],
             "colors": [
                 {

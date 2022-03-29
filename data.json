@@ -4,7 +4,7 @@
             "id": 93721,
             "name": "Wooden Speaker",
             "brand": "OBJ",
-            "type": "Speaker",
+            "type": "speaker",
             "price": 1960,
             "desc": "Smart og kompakt højtaler til trådløs musik i mindre rum som f.eks. badeværelse eller børneværelse. Indbygget mikrofon til stemmestyring.",
             "images": [
@@ -1010,7 +1010,7 @@
                         93721,
                         11123
                     ],
-                    "amounts":[
+                    "amounts": [
                         1,
                         1
                     ]
