@@ -1455,15 +1455,15 @@
         },
         {
             "id": 93721,
-            "name": "Wooden Speaker",
+            "name": "Epos m5",
             "brand": "OBJ",
             "type": "speaker",
             "price": 1960,
             "desc": "Smart og kompakt højtaler til trådløs musik i mindre rum som f.eks. badeværelse eller børneværelse. Indbygget mikrofon til stemmestyring.",
             "images": [
                 "/images/speaker/epos_m5.gif",
-                "/images/database/wooden-Speaker(2).jpg",
-                "/images/database/wooden-Speaker(3).jpg"
+                "/images/database/epos_m5.gif",
+                "/images/database/epos_m5.gif"
             ],
             "colors": [
                 {
@@ -1521,15 +1521,15 @@
         },
         {
             "id": 93721,
-            "name": "Wooden Speaker",
+            "name": "Harbeth hl7es2",
             "brand": "OBJ",
             "type": "speaker",
             "price": 1960,
             "desc": "Smart og kompakt højtaler til trådløs musik i mindre rum som f.eks. badeværelse eller børneværelse. Indbygget mikrofon til stemmestyring.",
             "images": [
                 "/images/speaker/harbeth_hl7es2.jpg",
-                "/images/database/harbeth_hl7es2.jpg",
-                "/images/database/harbeth_hl7es2.jpg"
+                "/images/speaker/harbeth_hl7es2.jpg",
+                "/images/speaker/harbeth_hl7es2.jpg"
             ],
             "colors": [
                 {
@@ -1587,15 +1587,15 @@
         },
         {
             "id": 93721,
-            "name": "Wooden Speaker",
+            "name": "Harbeth Monitor30",
             "brand": "OBJ",
             "type": "speaker",
             "price": 1960,
             "desc": "Smart og kompakt højtaler til trådløs musik i mindre rum som f.eks. badeværelse eller børneværelse. Indbygget mikrofon til stemmestyring.",
             "images": [
                 "/images/speaker/harbeth_monitor30.jpg",
-                "/images/database/harbeth_monitor30.jpg",
-                "/images/database/harbeth_monitor30.jpg"
+                "/images/speaker/harbeth_monitor30.jpg",
+                "/images/speaker/harbeth_monitor30.jpg"
             ],
             "colors": [
                 {
@@ -1653,15 +1653,15 @@
         },
         {
             "id": 93721,
-            "name": "Wooden Speaker",
+            "name": "Harbeth P3es2",
             "brand": "OBJ",
             "type": "speaker",
             "price": 1960,
             "desc": "Smart og kompakt højtaler til trådløs musik i mindre rum som f.eks. badeværelse eller børneværelse. Indbygget mikrofon til stemmestyring.",
             "images": [
                 "/images/speaker/harbeth_p3es2.jpg",
-                "/images/database/harbeth_p3es2.jpg",
-                "/images/database/harbeth_p3es2.jpg"
+                "/images/speaker/harbeth_p3es2.jpg",
+                "/images/speaker/harbeth_p3es2.jpg"
             ],
             "colors": [
                 {
