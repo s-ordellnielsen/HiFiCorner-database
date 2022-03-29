@@ -1461,9 +1461,207 @@
             "price": 1960,
             "desc": "Smart og kompakt højtaler til trådløs musik i mindre rum som f.eks. badeværelse eller børneværelse. Indbygget mikrofon til stemmestyring.",
             "images": [
-                "/images/database/wooden-Speaker(1).jpg",
+                "/images/speaker/epos_m5.gif",
                 "/images/database/wooden-Speaker(2).jpg",
                 "/images/database/wooden-Speaker(3).jpg"
+            ],
+            "colors": [
+                {
+                    "name": "Midnight Green",
+                    "code": "#004953"
+                },
+                {
+                    "name": "Black",
+                    "code": "#00000"
+                },
+                {
+                    "name": "White",
+                    "code": "#FFFFF"
+                }
+            ],
+            "flavor_text": "De hurtigste og nemmeste højtaler at tage på farten",
+            "specs": {
+                "sound": "Stereo parring",
+                "design": {
+                    "height": "16,2",
+                    "width": 12,
+                    "weigth": "1,85",
+                    "design_desc": [
+                        "Tåler placering i fugtige rum",
+                        "Lækre Matte farver"
+                    ]
+                },
+                "connectivity": {
+                    "power": "100-240V 50/60Hz intern strømforsyning",
+                    "battery": "no",
+                    "type": [
+                        "Virker med Google Assistent",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Benny",
+                        "stars": 4,
+                        "review_comment": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+                        "review_date": "34. december 2022"
+                    }
+                ]
+            },
+            "stock": 45,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        },
+        {
+            "id": 93721,
+            "name": "Wooden Speaker",
+            "brand": "OBJ",
+            "type": "speaker",
+            "price": 1960,
+            "desc": "Smart og kompakt højtaler til trådløs musik i mindre rum som f.eks. badeværelse eller børneværelse. Indbygget mikrofon til stemmestyring.",
+            "images": [
+                "/images/speaker/harbeth_hl7es2.jpg",
+                "/images/database/harbeth_hl7es2.jpg",
+                "/images/database/harbeth_hl7es2.jpg"
+            ],
+            "colors": [
+                {
+                    "name": "Midnight Green",
+                    "code": "#004953"
+                },
+                {
+                    "name": "Black",
+                    "code": "#00000"
+                },
+                {
+                    "name": "White",
+                    "code": "#FFFFF"
+                }
+            ],
+            "flavor_text": "De hurtigste og nemmeste højtaler at tage på farten",
+            "specs": {
+                "sound": "Stereo parring",
+                "design": {
+                    "height": "16,2",
+                    "width": 12,
+                    "weigth": "1,85",
+                    "design_desc": [
+                        "Tåler placering i fugtige rum",
+                        "Lækre Matte farver"
+                    ]
+                },
+                "connectivity": {
+                    "power": "100-240V 50/60Hz intern strømforsyning",
+                    "battery": "no",
+                    "type": [
+                        "Virker med Google Assistent",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Benny",
+                        "stars": 4,
+                        "review_comment": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+                        "review_date": "34. december 2022"
+                    }
+                ]
+            },
+            "stock": 45,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        },
+        {
+            "id": 93721,
+            "name": "Wooden Speaker",
+            "brand": "OBJ",
+            "type": "speaker",
+            "price": 1960,
+            "desc": "Smart og kompakt højtaler til trådløs musik i mindre rum som f.eks. badeværelse eller børneværelse. Indbygget mikrofon til stemmestyring.",
+            "images": [
+                "/images/speaker/harbeth_monitor30.jpg",
+                "/images/database/harbeth_monitor30.jpg",
+                "/images/database/harbeth_monitor30.jpg"
+            ],
+            "colors": [
+                {
+                    "name": "Midnight Green",
+                    "code": "#004953"
+                },
+                {
+                    "name": "Black",
+                    "code": "#00000"
+                },
+                {
+                    "name": "White",
+                    "code": "#FFFFF"
+                }
+            ],
+            "flavor_text": "De hurtigste og nemmeste højtaler at tage på farten",
+            "specs": {
+                "sound": "Stereo parring",
+                "design": {
+                    "height": "16,2",
+                    "width": 12,
+                    "weigth": "1,85",
+                    "design_desc": [
+                        "Tåler placering i fugtige rum",
+                        "Lækre Matte farver"
+                    ]
+                },
+                "connectivity": {
+                    "power": "100-240V 50/60Hz intern strømforsyning",
+                    "battery": "no",
+                    "type": [
+                        "Virker med Google Assistent",
+                        "AirPlay 2"
+                    ]
+                },
+                "reviews": [
+                    {
+                        "user_icon": [
+                            "/images/user_icons/henrik-grennn.jpg"
+                        ],
+                        "username": "Benny",
+                        "stars": 4,
+                        "review_comment": "The box this comes in is 5 yard by 6 centimeter and weights 12 kilogram.",
+                        "review_date": "34. december 2022"
+                    }
+                ]
+            },
+            "stock": 45,
+            "tags": [
+                "bluetooth",
+                "wireless",
+                "airplay",
+                "water resistant"
+            ]
+        },
+        {
+            "id": 93721,
+            "name": "Wooden Speaker",
+            "brand": "OBJ",
+            "type": "speaker",
+            "price": 1960,
+            "desc": "Smart og kompakt højtaler til trådløs musik i mindre rum som f.eks. badeværelse eller børneværelse. Indbygget mikrofon til stemmestyring.",
+            "images": [
+                "/images/speaker/harbeth_p3es2.jpg",
+                "/images/database/harbeth_p3es2.jpg",
+                "/images/database/harbeth_p3es2.jpg"
             ],
             "colors": [
                 {
