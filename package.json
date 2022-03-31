@@ -1,7 +1,7 @@
 {
   "name": "hificorner-database",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"devDependencies\": {\r     \"gulp\": \"^4.0.2\",\r     \"gulp-connect\": \"^5.7.0\",\r     \"json-server\": \"^0.17.0\"",
   "main": "gulpfile.js",
   "type": "module",
   "scripts": {
@@ -21,6 +21,7 @@
   "homepage": "https://github.com/AppleFanBoy0941/HiFiCorner-database#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
     "gulp-connect": "^5.7.0",
     "json-server": "^0.17.0"
   }
