@@ -2610,7 +2610,7 @@
             "price": 1239,
             "desc": "To the average audiophile, the name Bang & Olufson should be no stranger. Mike Allen, founder of Bang & Olufson, has been designing and manufacturing tubed and hybrid amplifiers and source equipment for quite some time.",
             "images": [
-                "/images/tubeAmplifier/jolida_JD502b.jpg'>",
+                "/images/tubeAmplifier/jolida_JD502b.jpg",
                 "/images/tubeAmplifier/jolida_JD502b.jpg"
             ],
             "colors": [
@@ -3089,5 +3089,8 @@
             "email": "diddly-dorte@gmail.com",
             "phone": 27543620
         }
+    ],
+    "cart_items":[
+        
     ]
 }
