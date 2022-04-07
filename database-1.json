@@ -724,9 +724,9 @@
             "price": 999,
             "desc": "Manley Mahi, An amplifier is an electronic device that increases the voltage, current, or power of a signal. Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. They can be categorized as either weak-signal amplifiers or power amplifiers.",
             "images": [
-                "/images/effectAmplifier/exposure_2010S.jpg",
-                "/images/effectAmplifier/exposure_2010S.jpg",
-                "/images/effectAmplifier/exposure_2010S.jpg"
+                "/images/effectAmplifier/manley_mahi.jpg",
+                "/images/effectAmplifier/manley_mahi.jpg",
+                "/images/effectAmplifier/manley_mahi.jpg"
             ],
             "colors": [
                 {
@@ -814,9 +814,9 @@
             "price": 1399,
             "desc": "Manley Neo-classic, an amplifier is an electronic device that increases the voltage, current, or power of a signal. Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. They can be categorized as either weak-signal amplifiers or power amplifiers.",
             "images": [
-                "/images/effectAmplifier/manley_neoclassic.jpg",
-                "/images/effectAmplifier/manley_neoclassic.jpg",
-                "/images/effectAmplifier/manley_neoclassic.jpg"
+                "/images/effectAmplifier/manley_neoclassic300b.jpg",
+                "/images/effectAmplifier/manley_neoclassic300b.jpg",
+                "/images/effectAmplifier/manley_neoclassic300b.jpg"
             ],
             "colors": [
                 {
@@ -1462,8 +1462,8 @@
             "desc": "Smart og kompakt højtaler til trådløs musik i mindre rum som f.eks. badeværelse eller børneværelse. Indbygget mikrofon til stemmestyring.",
             "images": [
                 "/images/speaker/epos_m5.gif",
-                "/images/database/epos_m5.gif",
-                "/images/database/epos_m5.gif"
+                "/images/speaker/epos_m5.gif",
+                "/images/speaker/epos_m5.gif"
             ],
             "colors": [
                 {
@@ -1788,8 +1788,9 @@
             "price": 1450,
             "desc": "Creek designs have improved over the years, but in a quiet, friendly, unassuming, evolutionary (rather than revolutionary) way. Under discussion today is the new flagship of the Creek integrated line",
             "images": [
-                "/images/intAmplifier/creek_a501.jpg",
-                "/images/intAmplifier/creek_classic5350SE.jpg"
+                "/images/intAmplifier/creek_a50I.jpg",
+                "/images/intAmplifier/creek_a50I.jpg",
+                "/images/intAmplifier/creek_a50I.jpg"
             ],
             "colors": [
                 {
@@ -1914,8 +1915,9 @@
             "price": 1239,
             "desc": "Creek designs have improved over the years, but in a quiet, friendly, unassuming, evolutionary (rather than revolutionary) way. Under discussion today is the new flagship of the Creek integrated line",
             "images": [
-                "/images/intAmplifier/manley_snapperInt.jpg",
-                "/images/intAmplifier/manley_snapperInt.jpg"
+                "/images/intAmplifier/manley_snapper.jpg",
+                "/images/intAmplifier/manley_snapper.jpg",
+                "/images/intAmplifier/manley_snapper.jpg"
             ],
             "colors": [
                 {
@@ -1977,8 +1979,9 @@
             "price": 1239,
             "desc": "Creek designs have improved over the years, but in a quiet, friendly, unassuming, evolutionary (rather than revolutionary) way. Under discussion today is the new flagship of the Creek integrated line",
             "images": [
-                "/images/intAmplifier/manley_snapperInt.jpg",
-                "/images/intAmplifier/manley_snapperInt.jpg"
+                "/images/intAmplifier/manley_snapper.jpg",
+                "/images/intAmplifier/manley_snapper.jpg",
+                "/images/intAmplifier/manley_snapper.jpg"
             ],
             "colors": [
                 {
@@ -2040,9 +2043,11 @@
             "price": 1239,
             "desc": "Grammofon med Ortofon OM-5 e",
             "images": [
-                "/images/turnTable/Project_Debut_3_bl.jpg",
-                "/images/turnTable/Project_Debut_3_red_1.jpg",
-                "/images/turnTable/Project_Debut_3_yellow_1.jpg"
+                "/images/turnTable/Pro_ject_Debut_1_yellow.jpg",
+                "/images/turnTable/Pro_ject_Debut_2_red.jpg",
+                "/images/turnTable/Pro_ject_Debut_3_bl.jpg"
+     
+                
             ],
             "colors": [
                 {
@@ -2104,8 +2109,9 @@
             "price": 1239,
             "desc": "Grammofon med Ortofon OM-5 e",
             "images": [
-                "/images/turnTable/Project_rpm_5.jpg",
-                "/images/turnTable/Project_rpm_5.jpg"
+                "/images/turnTable/Pro_ject_rpm_5.jpg",
+                "/images/turnTable/Pro_ject_rpm_5.jpg",
+                "/images/turnTable/Pro_ject_rpm_5.jpg"
             ],
             "colors": [
                 {
@@ -2167,8 +2173,8 @@
             "price": 1239,
             "desc": "Grammofon med Ortofon OM-5 e",
             "images": [
-                "/images/turnTable/Project_rpm10.jpg",
-                "/images/turnTable/Project_rpm10.jpg"
+                "/images/turnTable/Pro_ject_rpm10.jpg",
+                "/images/turnTable/Pro_ject_rpm10.jpg"
             ],
             "colors": [
                 {
