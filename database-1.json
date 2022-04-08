@@ -5,7 +5,7 @@
             "name": "Creek Classic",
             "brand": "creek",
             "type": "cdPlayer",
-            "price": 999,
+            "price": 145,
             "desc": "A CD player is an electronic device that plays audio compact discs, which are a digital optical disc data storage format. CD players were first sold to consumers in 1982. CDs typically contain recordings of audio material such as music or audiobooks.",
             "images": [
                 "/images/cdPlayer/creek_classic_cd.jpg",
@@ -94,7 +94,7 @@
             "name": "Creek Destiny",
             "brand": "creek",
             "type": "cdPlayer",
-            "price": 1399,
+            "price": 250,
             "desc": "A CD player is an electronic device that plays audio compact discs, which are a digital optical disc data storage format. CD players were first sold to consumers in 1982. CDs typically contain recordings of audio material such as music or audiobooks.",
             "images": [
                 "/images/cdPlayer/creek_Destiny_CD.jpg",
@@ -183,7 +183,7 @@
             "name": "Creek Evo",
             "brand": "creek",
             "type": "cdPlayer",
-            "price": 1699,
+            "price": 419,
             "desc": "A CD player is an electronic device that plays audio compact discs, which are a digital optical disc data storage format. CD players were first sold to consumers in 1982. CDs typically contain recordings of audio material such as music or audiobooks.",
             "images": [
                 "/images/cdPlayer/creek_evo_cd.jpg",
@@ -272,7 +272,7 @@
             "name": "Creek EXP",
             "brand": "creek",
             "type": "cdPlayer",
-            "price": 1999,
+            "price": 500,
             "desc": "A CD player is an electronic device that plays audio compact discs, which are a digital optical disc data storage format. CD players were first sold to consumers in 1982. CDs typically contain recordings of audio material such as music or audiobooks.",
             "images": [
                 "/images/cdPlayer/Exp_2010S_CD.gif",
@@ -361,7 +361,7 @@
             "name": "Creek Classic Dvd",
             "brand": "creek",
             "type": "dvdPlayer",
-            "price": 999,
+            "price": 199,
             "desc": "A DVD player is very similar to a CD player. It has a laser assembly that shines the laser beam onto the surface of the disc to read the pattern of bumps . The DVD player decodes the MPEG-2 encoded movie, turning it into a standard composite video signal.",
             "images": [
                 "/images/dvdPlayer/creek_classic.jpg",
@@ -451,7 +451,7 @@
             "name": "Creek EXPosure",
             "brand": "creek",
             "type": "dvdPlayer",
-            "price": 1399,
+            "price": 250,
             "desc": "Creek EXPosure, a DVD player is very similar to a CD player. It has a laser assembly that shines the laser beam onto the surface of the disc to read the pattern of bumps . The DVD player decodes the MPEG-2 encoded movie, turning it into a standard composite video signal.",
             "images": [
                 "/images/dvdPlayer/exposure_2010S.jpg",
@@ -541,7 +541,7 @@
             "name": "Parasound d200",
             "brand": "parasound",
             "type": "dvdPlayer",
-            "price": 1699,
+            "price": 419,
             "desc": "A DVD player is very similar to a CD player. It has a laser assembly that shines the laser beam onto the surface of the disc to read the pattern of bumps . The DVD player decodes the MPEG-2 encoded movie, turning it into a standard composite video signal.",
             "images": [
                 "/images/dvdPlayer/parasound_d200.jpg",
@@ -631,7 +631,7 @@
             "name": "Parasound Halo d3",
             "brand": "parasound",
             "type": "dvdPlayer",
-            "price": 1999,
+            "price": 500,
             "desc": "Parasound Halo d3, A DVD player is very similar to a CD player. It has a laser assembly that shines the laser beam onto the surface of the disc to read the pattern of bumps . The DVD player decodes the MPEG-2 encoded movie, turning it into a standard composite video signal.",
             "images": [
                 "/images/dvdPlayer/parasound_halod3.jpg",
@@ -721,7 +721,7 @@
             "name": "Manley Mahi Effect Amplifier",
             "brand": "manley",
             "type": "effectAmplifier",
-            "price": 999,
+            "price": 199,
             "desc": "Manley Mahi, An amplifier is an electronic device that increases the voltage, current, or power of a signal. Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. They can be categorized as either weak-signal amplifiers or power amplifiers.",
             "images": [
                 "/images/effectAmplifier/manley_mahi.jpg",
@@ -811,7 +811,7 @@
             "name": "Manley Neo Effect Amplifier",
             "brand": "manley",
             "type": "effectAmplifier",
-            "price": 1399,
+            "price": 250,
             "desc": "Manley Neo-classic, an amplifier is an electronic device that increases the voltage, current, or power of a signal. Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. They can be categorized as either weak-signal amplifiers or power amplifiers.",
             "images": [
                 "/images/effectAmplifier/manley_neoclassic300b.jpg",
@@ -901,7 +901,7 @@
             "name": "Manley Snapper Effect Amplifier",
             "brand": "manley",
             "type": "effectAmplifier",
-            "price": 1699,
+            "price": 419,
             "desc": "The Manley Snapper, An amplifier is an electronic device that increases the voltage, current, or power of a signal. Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. They can be categorized as either weak-signal amplifiers or power amplifiers.",
             "images": [
                 "/images/effectAmplifier/manley_snapper.jpg",
@@ -991,7 +991,7 @@
             "name": "Parasound Halo Effect Amplifier",
             "brand": "parasound",
             "type": "effectAmplifier",
-            "price": 1999,
+            "price": 500,
             "desc": "Parasound Halo, An amplifier is an electronic device that increases the voltage, current, or power of a signal. Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. They can be categorized as either weak-signal amplifiers or power amplifiers.",
             "images": [
                 "/images/effectAmplifier/parasound_haloa23.jpg",
@@ -1081,7 +1081,7 @@
             "name": "Creek OBH 22",
             "brand": "creek",
             "type": "preAmplifier",
-            "price": 999,
+            "price": 199,
             "desc": "Creek OBH 22 pre amplifier, In a home theatre system, the pre-amplifier performs two main functions: it handles switching between different line level sources and boosts the signal before sending it to the amplifier. A weak electrical signal becomes strong enough for additional processing, preventing noise and offering cleaner output.",
             "images": [
                 "/images/preAmplifier/Creek_OBH_22_Passive_Preamp.jpg",
@@ -1171,7 +1171,7 @@
             "name": "Parasound Classic",
             "brand": "parasound",
             "type": "preAmplifier",
-            "price": 1399,
+            "price": 250,
             "desc": "Parasound Classic pre amplifier, In a home theatre system, the pre-amplifier performs two main functions: it handles switching between different line level sources and boosts the signal before sending it to the amplifier. A weak electrical signal becomes strong enough for additional processing, preventing noise and offering cleaner output. lyd",
             "images": [
                 "/images/preAmplifier/parasound_classic7100.jpg",
@@ -1261,7 +1261,7 @@
             "name": "Parasound Halo 3",
             "brand": "Creek",
             "type": "preAmplifier",
-            "price": 1699,
+            "price": 419,
             "desc": "Parasound Halo 3 pre amplifier, In a home theatre system, the pre-amplifier performs two main functions: it handles switching between different line level sources and boosts the signal before sending it to the amplifier. A weak electrical signal becomes strong enough for additional processing, preventing noise and offering cleaner output.",
             "images": [
                 "/images/preAmplifier/parasound_halop3.jpg",
@@ -1351,7 +1351,7 @@
             "name": "Project Pre Box",
             "brand": "project",
             "type": "preAmplifier",
-            "price": 1999,
+            "price": 500,
             "desc": "Project Pre Box, In a home theatre system, the pre-amplifier performs two main functions: it handles switching between different line level sources and boosts the signal before sending it to the amplifier. A weak electrical signal becomes strong enough for additional processing, preventing noise and offering cleaner output.",
             "images": [
                 "/images/preAmplifier/Project_prebox.jpg",
@@ -1458,7 +1458,7 @@
             "name": "Epos m5",
             "brand": "OBJ",
             "type": "speaker",
-            "price": 1960,
+            "price": "119.95",
             "desc": "Smart og kompakt højtaler til trådløs musik i mindre rum som f.eks. badeværelse eller børneværelse. Indbygget mikrofon til stemmestyring.",
             "images": [
                 "/images/speaker/epos_m5.gif",
@@ -1524,7 +1524,7 @@
             "name": "Harbeth hl7es2",
             "brand": "OBJ",
             "type": "speaker",
-            "price": 1960,
+            "price": 119.95,
             "desc": "Smart og kompakt højtaler til trådløs musik i mindre rum som f.eks. badeværelse eller børneværelse. Indbygget mikrofon til stemmestyring.",
             "images": [
                 "/images/speaker/harbeth_hl7es2.jpg",
@@ -1590,7 +1590,7 @@
             "name": "Harbeth Monitor30",
             "brand": "OBJ",
             "type": "speaker",
-            "price": 1960,
+            "price": 119.95,
             "desc": "Smart og kompakt højtaler til trådløs musik i mindre rum som f.eks. badeværelse eller børneværelse. Indbygget mikrofon til stemmestyring.",
             "images": [
                 "/images/speaker/harbeth_monitor30.jpg",
@@ -1656,7 +1656,7 @@
             "name": "Harbeth P3es2",
             "brand": "OBJ",
             "type": "speaker",
-            "price": 1960,
+            "price": 119.95,
             "desc": "Smart og kompakt højtaler til trådløs musik i mindre rum som f.eks. badeværelse eller børneværelse. Indbygget mikrofon til stemmestyring.",
             "images": [
                 "/images/speaker/harbeth_p3es2.jpg",
@@ -1722,7 +1722,7 @@
             "name": "Creek classic 53",
             "brand": "Creek",
             "type": "intAmplifier",
-            "price": 1250,
+            "price": 149.95,
             "desc": "Creek designs have improved over the years, but in a quiet, friendly, unassuming, evolutionary (rather than revolutionary) way. Under discussion today is the new flagship of the Creek integrated line",
             "images": [
                 "/images/intAmplifier/creek_classic5350SE.jpg",
@@ -1785,7 +1785,7 @@
             "name": "Creek a501",
             "brand": "Creek",
             "type": "intAmplifier",
-            "price": 1450,
+            "price": 200,
             "desc": "Creek designs have improved over the years, but in a quiet, friendly, unassuming, evolutionary (rather than revolutionary) way. Under discussion today is the new flagship of the Creek integrated line",
             "images": [
                 "/images/intAmplifier/creek_a50I.jpg",
@@ -1849,7 +1849,7 @@
             "name": "Creek DestinyAMP",
             "brand": "Creek",
             "type": "intAmplifier",
-            "price": 1699,
+            "price": 419,
             "desc": "Creek designs have improved over the years, but in a quiet, friendly, unassuming, evolutionary (rather than revolutionary) way. Under discussion today is the new flagship of the Creek integrated line",
             "images": [
                 "/images/intAmplifier/creek_destinyamp.jpg",
@@ -1912,7 +1912,7 @@
             "name": "Manley Snapper Int Amplifer",
             "brand": "Manley",
             "type": "intAmplifier",
-            "price": 1239,
+            "price": 239.95,
             "desc": "Creek designs have improved over the years, but in a quiet, friendly, unassuming, evolutionary (rather than revolutionary) way. Under discussion today is the new flagship of the Creek integrated line",
             "images": [
                 "/images/intAmplifier/manley_snapper.jpg",
@@ -1976,7 +1976,7 @@
             "name": "Manley Snapper Int Amplifer",
             "brand": "Manley",
             "type": "intAmplifier",
-            "price": 1239,
+            "price": 375,
             "desc": "Creek designs have improved over the years, but in a quiet, friendly, unassuming, evolutionary (rather than revolutionary) way. Under discussion today is the new flagship of the Creek integrated line",
             "images": [
                 "/images/intAmplifier/manley_snapper.jpg",
@@ -2040,7 +2040,7 @@
             "name": "Project debut 3",
             "brand": "Project",
             "type": "turnTable",
-            "price": 1239,
+            "price": 499,
             "desc": "Grammofon med Ortofon OM-5 e",
             "images": [
                 "/images/turnTable/Pro_ject_Debut_1_yellow.jpg",
@@ -2106,7 +2106,7 @@
             "name": "Project Rpm 5",
             "brand": "Project",
             "type": "turnTable",
-            "price": 1239,
+            "price": 399,
             "desc": "Grammofon med Ortofon OM-5 e",
             "images": [
                 "/images/turnTable/Pro_ject_rpm_5.jpg",
@@ -2170,7 +2170,7 @@
             "name": "Project Rpm 10",
             "brand": "Project",
             "type": "turnTable",
-            "price": 1239,
+            "price": 375.95,
             "desc": "Grammofon med Ortofon OM-5 e",
             "images": [
                 "/images/turnTable/Pro_ject_rpm10.jpg",
@@ -2233,7 +2233,7 @@
             "name": "Jolida JD102b",
             "brand": "Jolida",
             "type": "tubeAmplifier",
-            "price": 1239,
+            "price": 299,
             "desc": "To the average audiophile, the name JoLida should be no stranger. Mike Allen, founder of JoLida, has been designing and manufacturing tubed and hybrid amplifiers and source equipment for quite some time.",
             "images": [
                 "/images/tubeAmplifier/jolida_JD102b.jpg",
@@ -2296,7 +2296,7 @@
             "name": "Jolida JD202a",
             "brand": "Jolida",
             "type": "tubeAmplifier",
-            "price": 1239,
+            "price": 375.95,
             "desc": "To the average audiophile, the name JoLida should be no stranger. Mike Allen, founder of JoLida, has been designing and manufacturing tubed and hybrid amplifiers and source equipment for quite some time.",
             "images": [
                 "/images/tubeAmplifier/jolida_JD202a.jpg",
@@ -2359,7 +2359,7 @@
             "name": "Jolida JD300b",
             "brand": "Jolida",
             "type": "tubeAmplifier",
-            "price": 1239,
+            "price": 375.95,
             "desc": "To the average audiophile, the name JoLida should be no stranger. Mike Allen, founder of JoLida, has been designing and manufacturing tubed and hybrid amplifiers and source equipment for quite some time.",
             "images": [
                 "/images/tubeAmplifier/jolida_JD300b.jpg",
@@ -2422,7 +2422,7 @@
             "name": "Jolida JD302b",
             "brand": "Jolida",
             "type": "tubeAmplifier",
-            "price": 1239,
+            "price": 375.95,
             "desc": "To the average audiophile, the name JoLida should be no stranger. Mike Allen, founder of JoLida, has been designing and manufacturing tubed and hybrid amplifiers and source equipment for quite some time.",
             "images": [
                 "/images/tubeAmplifier/jolida_JD302b.jpg",
@@ -2485,7 +2485,7 @@
             "name": "Jolida JD502b",
             "brand": "Jolida",
             "type": "tubeAmplifier",
-            "price": 1239,
+            "price": 375.95,
             "desc": "To the average audiophile, the name JoLida should be no stranger. Mike Allen, founder of JoLida, has been designing and manufacturing tubed and hybrid amplifiers and source equipment for quite some time.",
             "images": [
                 "/images/tubeAmplifier/jolida_JD502b.jpg",
@@ -2548,7 +2548,7 @@
             "name": "Jolida JD502b",
             "brand": "Jolida",
             "type": "packages",
-            "price": 1239,
+            "price": 375.95,
             "desc": "To the average audiophile, the name JoLida should be no stranger. Mike Allen, founder of JoLida, has been designing and manufacturing tubed and hybrid amplifiers and source equipment for quite some time.",
             "images": [
                 "/images/tubeAmplifier/jolida_JD502b.jpg",
@@ -2613,7 +2613,7 @@
             "name": "Surround sound - Living Room",
             "brand": "Bang & Olufson",
             "type": "packageDeals",
-            "price": 1239,
+            "price": 375.95,
             "desc": "To the average audiophile, the name Bang & Olufson should be no stranger. Mike Allen, founder of Bang & Olufson, has been designing and manufacturing tubed and hybrid amplifiers and source equipment for quite some time.",
             "images": [
                 "/images/tubeAmplifier/jolida_JD502b.jpg",
@@ -2675,7 +2675,7 @@
             "name": "Speakers for 3 rooms",
             "brand": "Bang & Olufson",
             "type": "packageDeals",
-            "price": 1239,
+            "price": 375.95,
             "desc": "To the average audiophile, the name Bang & Olufson should be no stranger. Mike Allen, founder of Bang & Olufson, has been designing and manufacturing tubed and hybrid amplifiers and source equipment for quite some time.",
             "images": [
                 "/images/tubeAmplifier/jolida_JD502b.jpg",
@@ -2734,7 +2734,7 @@
             "name": "Surround sound - Living Room",
             "brand": "Bang & Olufson",
             "type": "packageDeals",
-            "price": 1239,
+            "price": 375.95,
             "desc": "To the average audiophile, the name Bang & Olufson should be no stranger. Mike Allen, founder of Bang & Olufson, has been designing and manufacturing tubed and hybrid amplifiers and source equipment for quite some time.",
             "images": [
                 "/images/tubeAmplifier/jolida_JD502b.jpg",
@@ -2793,7 +2793,7 @@
             "name": "Surround sound - Living Room",
             "brand": "Bang & Olufson",
             "type": "packageDeals",
-            "price": 1239,
+            "price": 375.95,
             "desc": "To the average audiophile, the name Bang & Olufson should be no stranger. Mike Allen, founder of Bang & Olufson, has been designing and manufacturing tubed and hybrid amplifiers and source equipment for quite some time.",
             "images": [
                 "/images/tubeAmplifier/jolida_JD502b.jpg",
