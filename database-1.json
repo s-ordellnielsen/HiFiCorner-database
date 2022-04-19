@@ -2856,6 +2856,7 @@
             "last_name": "Jensen",
             "email": "jens-jensen@gmail.com",
             "password": "jensebasse1234",
+            "profile_picture": "/images/ProfilePics/zoomedface.png",
             "phone": 89686345,
             "address": {
                 "street": "Langbortivej",
@@ -2974,6 +2975,7 @@
             "first_name": "Kirsten",
             "last_name": "Kronborg",
             "email": "Kirsten-kronborg@gmail.com",
+            "profile_picture":"/images/ProfilePics/zoomedface.png",
             "password": "1234",
             "phone": 23692461,
             "address": {
