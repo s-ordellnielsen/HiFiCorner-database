@@ -2046,8 +2046,6 @@
                 "/images/turnTable/Pro_ject_Debut_1_bl.jpg",
                 "/images/turnTable/Pro_ject_Debut_2_red.jpg",
                 "/images/turnTable/Pro_ject_Debut_3_ye.jpg"
-     
-                
             ],
             "colors": [
                 {
@@ -2875,7 +2873,8 @@
             "orders": {
                 "customer_order_id": 1234567,
                 "order_number": "W0927817"
-            }
+            },
+            "cartItems": {}
         },
         {
             "id": 123457,
@@ -3096,7 +3095,5 @@
             "phone": 27543620
         }
     ],
-    "cart_items":[
-        
-    ]
+    "cartItems": []
 }
