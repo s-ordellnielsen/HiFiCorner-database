@@ -2046,8 +2046,6 @@
                 "/images/turnTable/Pro_ject_Debut_1_bl.jpg",
                 "/images/turnTable/Pro_ject_Debut_2_red.jpg",
                 "/images/turnTable/Pro_ject_Debut_3_ye.jpg"
-     
-                
             ],
             "colors": [
                 {
@@ -2856,6 +2854,7 @@
             "last_name": "Jensen",
             "email": "jens-jensen@gmail.com",
             "password": "jensebasse1234",
+            "profile_picture": "/images/ProfilePics/zoomedface.png",
             "phone": 89686345,
             "address": {
                 "street": "Langbortivej",
@@ -2875,7 +2874,8 @@
             "orders": {
                 "customer_order_id": 1234567,
                 "order_number": "W0927817"
-            }
+            },
+            "cartItems": {}
         },
         {
             "id": 123457,
@@ -2974,6 +2974,7 @@
             "first_name": "Kirsten",
             "last_name": "Kronborg",
             "email": "Kirsten-kronborg@gmail.com",
+            "profile_picture":"/images/ProfilePics/zoomedface.png",
             "password": "1234",
             "phone": 23692461,
             "address": {
@@ -3096,7 +3097,5 @@
             "phone": 27543620
         }
     ],
-    "cart_items":[
-        
-    ]
+    "cartItems": []
 }
