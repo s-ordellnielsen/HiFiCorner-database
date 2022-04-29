@@ -3086,8 +3086,7 @@
             "favorites": [
                 12345,
                 12346,
-                12348,
-                "flere id'er"
+                12348
             ],
             "orders": {
                 "customer_order_id": 1234567,
@@ -3100,6 +3099,7 @@
             "username": "apple-hater84",
             "first_name": "Henrik",
             "last_name": "Gren",
+            "profile_picture":"/images/ProfilePics/zoomedface.png",
             "email": "xxsniperpro@gmail.com",
             "password": "ahah",
             "phone": 30129567,
@@ -3116,8 +3116,7 @@
                 12345,
                 12347,
                 12351,
-                12358,
-                "flere id'er"
+                12358
             ],
             "orders": {
                 "customer_order_id": 1234568,
@@ -3129,6 +3128,7 @@
             "username": "Diddly-Dorte",
             "first_name": "Dorte",
             "last_name": "Doormat",
+            "profile_picture":"/images/ProfilePics/zoomedface.png",
             "email": "diddly-dorte@gmail.com",
             "password": "diddly",
             "phone": 27543620,
@@ -3144,8 +3144,7 @@
             "favorites": [
                 12345,
                 12355,
-                12350,
-                "flere id'er"
+                12350
             ],
             "orders": [
                 {
@@ -3159,6 +3158,7 @@
             "username": "Charlotte-Lund",
             "first_name": "Charlotte",
             "last_name": "Notten",
+            "profile_picture":"/images/ProfilePics/zoomedface.png",
             "email": "notten83@gmail.com",
             "password": "1983lund",
             "phone": 20207140,
@@ -3176,8 +3176,8 @@
                 12348,
                 12359,
                 12355,
-                12353,
-                "flere id'er"
+                12353
+                
             ],
             "orders": [
                 {
@@ -3192,7 +3192,7 @@
             "first_name": "Kirsten",
             "last_name": "Kronborg",
             "email": "Kirsten-kronborg@gmail.com",
-            "profile_picture": "/images/ProfilePics/zoomedface.png",
+            "profile_picture": "/images/ProfilePics/mark2.0.png",
             "password": "1234",
             "phone": 23692461,
             "address": {
